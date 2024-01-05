@@ -4,7 +4,7 @@
 
 Hello and welcome to my Machine Learning Portfolio! I hold a degree in Physics from UIUC and am deeply passionate about solving real-world problems using machine learning algorithms.
 
-Feel free to connect with me on [LinkedIn](www.linkedin.com/in/brandonkluzek) or [X](https://twitter.com/BrandonKluzek).
+Feel free to connect with me via [brandonkluzek@gmail.com](mailto:brandonkluzek@gmail.com).
 
 ## Table of Contents
 
@@ -31,7 +31,6 @@ Feel free to connect with me on [LinkedIn](www.linkedin.com/in/brandonkluzek) or
 
 ## Contact Info
 
-- **Twitter**: [BrandonKluzek](https://twitter.com/BrandonKluzek)
 - **Email**: [brandonkluzek@gmail.com](mailto:brandonkluzek@gmail.com)
 
 ---
