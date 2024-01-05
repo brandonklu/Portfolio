@@ -8,19 +8,12 @@ Feel free to connect with me on [LinkedIn](www.linkedin.com/in/brandonkluzek) or
 
 ## Table of Contents
 
-1. [Certifications & Badges](#certifications--badges)
-2. [Machine Learning Projects](#machine-learning-projects)
-3. [Contact Info](#contact-info)
+1. [Projects](#projects)
+2. [Contact Info](#contact-info)
 
 ---
 
-## Certifications & Badges
-
-- Machine Learning Specialization Certificate from [DeepLearning.ai](https://coursera.org/share/f3fb6a41df4d7b54cf4aa3c0a4b3e5a1)
-
----
-
-## Machine Learning Projects
+## Projects
 
 ### Project 1: [Project Name]
 
@@ -38,12 +31,7 @@ Feel free to connect with me on [LinkedIn](www.linkedin.com/in/brandonkluzek) or
 
 ## Contact Info
 
-- **LinkedIn**: [BrandonKluzek](www.linkedin.com/in/brandonkluzek)
 - **Twitter**: [BrandonKluzek](https://twitter.com/BrandonKluzek)
 - **Email**: [brandonkluzek@gmail.com](mailto:brandonkluzek@gmail.com)
-
----
-
-Feel free to clone, fork, or star ⭐ this repository!
 
 ---
