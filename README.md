@@ -1,8 +1,8 @@
-# Brandon Kluzek's Machine Learning Portfolio
+# Brandon Kluzek's Portfolio
 
 ## Introduction
 
-Hello and welcome to my Machine Learning Portfolio! I hold a degree in Physics from UIUC and am deeply passionate about solving real-world problems using machine learning algorithms.
+Hello and welcome to my portfolio! I hold a degree in Physics from UIUC and am deeply passionate about solving real-world problems using machine learning algorithms.
 
 Feel free to connect with me via [brandonkluzek@gmail.com](mailto:brandonkluzek@gmail.com).
 
