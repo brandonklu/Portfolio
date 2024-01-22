@@ -24,18 +24,6 @@ If you have any questions feel free to contact me via [brandonkluzek@gmail.com](
 - **Description**: Briefly describe what the project is about.
 - **Link**: [GitHub]([URL to the specific project folder](https://github.com/brandonklu/Portfolio/tree/main/California%20Housing%20Price%20Prediction))
 
-### 2. [Cardiovascular Disease Detection](https://github.com/brandonklu/Portfolio/tree/main/Cardiovascular%20Disease%20Detection)
-
-- **Technologies Used**: Python, TensorFlow, Numpy
-- **Description**: Briefly describe what the project is about.
-- **Link**: [GitHub]([URL to the specific project folder](https://github.com/brandonklu/Portfolio/tree/main/Cardiovascular%20Disease%20Detection))
-
-### 3. [Impact of Alchol Consumption on Student's Math Grades](https://github.com/brandonklu/Portfolio/tree/main/Impact%20of%20Alchol%20Consumption%20on%20Student's%20Math%20Grades)
-
-- **Technologies Used**: Python, Scikit-Learn, Pandas
-- **Description**: Briefly describe what the project is about.
-- **Link**: [GitHub]([URL to the specific project folder](https://github.com/brandonklu/Portfolio/tree/main/Impact%20of%20Alchol%20Consumption%20on%20Student's%20Math%20Grades))
-
 ---
 
 ## Contact Info
